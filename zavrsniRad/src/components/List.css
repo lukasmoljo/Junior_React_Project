@@ -1,0 +1,46 @@
+.filter{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:20px;
+    margin-left: 140px;
+    
+    
+}
+.list-radios{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top:5px;
+    font-size: 17px;
+    
+}
+.titleVrsta{
+    margin-top:25px;
+}
+.both-filters{
+    display:flex;
+    
+    flex-direction: row;
+}
+.makingList{
+    display:flex;
+    
+    flex-direction: column;
+}
+.allList{
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.takenAnimals{
+    margin-top:50px;
+    border:2px solid #ff4a4a;
+    background-color: #90EE90;
+}
+.untakenAnimals{
+    margin-top:50px;
+    border:2px solid #ff4a4a;
+    background-color: #FFCCCB;
+}

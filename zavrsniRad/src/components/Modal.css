@@ -1,0 +1,56 @@
+#modal {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    z-index: 200;
+    width:45%;
+    overflow: auto;
+    max-height: 100vh;
+    
+  }
+  .adding{
+    display:flex;
+    flex-direction: column;
+    margin:auto;
+    width:80%;
+    
+    margin-top: 10px;
+    
+    
+
+}
+
+  .modal {
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0);
+    z-index: 200;
+  
+    
+  }
+  .cancel{
+    background-color: #dc3545;
+    border: none;
+    color: white;
+    padding: 12px 20px;
+    margin:5px auto;
+    
+    display: flex;
+    
+    font-size: 15px;
+    transition-duration: 0.4s;
+    width:75px;
+    border: 1px solid #dc3545;
+  border-radius: 4px;
+  padding: 8px 16px;
+
+  /* Hover and focus styles */
+  transition: background-color 0.3s ease;
+  }
+ 

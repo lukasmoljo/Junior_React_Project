@@ -1,0 +1,52 @@
+#makeNew{
+    height:50px;
+    display: flex;
+    justify-content: left ;
+}
+.need{
+    display: flex;
+    justify-content: left;
+    margin:30px 0;
+    color:#ff4a4a;
+}
+.tableHead{
+    display:flex;
+    flex-direction: row;
+    border-bottom: 2px solid #ff4a4a;
+    justify-content: center;
+}
+.tableTitle{
+    margin-left:auto;
+}
+.tableDonate{
+    margin-left: auto;
+    font-weight: bold;
+    color:#ff4a4a;
+}
+.tableTitles{
+    margin-left:auto;
+    background-color: #dc3545;
+  color: #fff;
+
+  /* Borders and padding */
+  border: 1px solid #dc3545;
+  border-radius: 4px;
+  padding: 8px 16px;
+
+  /* Hover and focus styles */
+  transition: background-color 0.3s ease;
+}
+
+
+.close{
+    background-color: #ff4a4a;
+    margin-bottom: 50px;
+}
+.rowDonation{
+    display:flex;
+    flex-direction: row;
+}
+.listingDonation{
+    margin-left:auto;
+    
+}

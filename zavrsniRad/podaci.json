@@ -1,0 +1,179 @@
+{
+  "obavijesti": [
+    {
+      "naslov": "Volontiranje",
+      "tekst": "Volio bih volontirati u vašem azilu",
+      "vazno": false,
+      "id": 1
+    },
+    {
+      "naslov": "Čuvanje ljubimaca",
+      "tekst": "Može li vam se ostaviti ljubimac na tjedan dan zbog poslovnog puta?\n",
+      "vazno": false,
+      "id": 2
+    },
+    {
+      "naslov": "Udomljavanje",
+      "tekst": "Potreba za hitnim udomljavanjima zbog popunjavanja kapaciteta!",
+      "vazno": true,
+      "id": 3
+    }
+  ],
+  "kontakt": [
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 1
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 2
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 3
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 4
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 5
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 6
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 7
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 8
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 9
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 10
+    },
+    {
+      "name": "a1",
+      "email": "asdasd@gmail.com",
+      "message": "asdadasd",
+      "id": 11
+    },
+    {
+      "id": 12
+    },
+    {
+      "id": 13
+    },
+    {
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    }
+  ],
+  "donacije": [
+    {
+      "tip": "Hrana",
+      "vrijednost": "30€",
+      "opis": "Hrana - 3 kg",
+      "vrsta": "nudim",
+      "id": 1
+    },
+    {
+      "tip": "Uzica za pse",
+      "vrijednost": "5€",
+      "opis": "2 uzice za pse",
+      "vrsta": "nudim",
+      "id": 2
+    },
+    {
+      "tip": "Hrana",
+      "vrijednost": "20 kg",
+      "opis": "Za sve životinje",
+      "vrsta": "trazim",
+      "id": 3
+    }
+  ],
+  "zivotinje": [
+    {
+      "ime": "Bobby",
+      "tip": "macka",
+      "opis": "Perzijski mačak, miran i poslušan",
+      "godine": "3",
+      "čip": true,
+      "datum": "01/21/2023",
+      "udomljen": false,
+      "id": 2
+    },
+    {
+      "ime": "Asu",
+      "tip": "pas",
+      "opis": "Lijepa japanska akita",
+      "godine": "5",
+      "čip": true,
+      "datum": "03/09/2023",
+      "udomljen": false,
+      "id": 3
+    },
+    {
+      "ime": "Moby",
+      "tip": "pas",
+      "opis": "Mali psić, izrazito sladak i potreban brige",
+      "godine": "1",
+      "čip": false,
+      "datum": "05/03/2023",
+      "udomljen": false,
+      "id": 4
+    },
+    {
+      "ime": "Žućo",
+      "tip": "macka",
+      "opis": "presladak",
+      "godine": "2",
+      "chip": false,
+      "datum": "05/11/2023",
+      "udomljen": false,
+      "id": 5
+    }
+  ]
+}

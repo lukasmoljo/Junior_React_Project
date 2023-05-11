@@ -1,0 +1,86 @@
+.filters{
+  
+    margin:20px 0;
+    display: flex;
+    justify-content: left;
+    
+    
+}
+.radioCat{
+    margin:0 20px;
+    
+}
+.typeRadio{
+    width: 20px;
+    height: 20px;
+}
+.headType{
+    display: flex;
+    justify-content: left;
+    margin-left:60px;
+    margin-top:15px;
+}
+.wholeAnimal{
+    margin:auto;
+}
+.buttonSave{
+    display:flex;
+    justify-content: space-evenly;
+}
+.radios{
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content: space-evenly;
+    margin-bottom:20px;
+    margin-top:15px;
+}
+.udomljavanje{
+    display: flex;
+    zoom: 1.3;
+    margin-bottom: 20px;
+}
+
+.nameAnimal{
+    display: flex;
+    justify-content: left;
+    margin-top:20px;
+}
+.inputAnimal{
+    margin-left:15px;
+    width:300px;
+}
+
+.age{
+    margin-bottom: 20px;
+    display:flex;
+    justify-content: left;
+}
+.inputAge{
+    margin-left:15px;
+    width:150px;
+}
+.description{
+    display:flex;
+    justify-content: left;
+
+}
+
+.descriptionBox{
+    width:500px;
+    margin-left:15px;
+}
+.chip{
+    display:flex;
+    justify-content: left;
+    font-size:20px;
+    
+}
+.chipCheckbox{
+    zoom:1.5;
+}
+.datum{
+    display:flex;
+    justify-content: left;
+    width:100%;
+    margin-top: 30px;
+}
